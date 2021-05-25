@@ -1,0 +1,17 @@
+.expense-filter{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: flex-end;
+}
+
+.expense-filter div{
+    margin-right: 10px;
+    font-size: 1.2rem;
+}
+
+.expense-filter div select{
+    border-radius: 5px;
+    min-height: 1.5rem;
+    font-size: 1.2rem;
+}
