@@ -3,6 +3,7 @@
     flex-direction: row;
     color: white;
     justify-content: flex-end;
+    padding: 10px;
 }
 
 .expense-filter div{
